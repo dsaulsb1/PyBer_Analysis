@@ -20,7 +20,8 @@
   -The total number of fares is relatively low at the beginning of the year, likely due to winter weather and travel conditions. Even
    with the early year lull, there isn't a large amount of fluctuation in total fares from week to week. This is viewable on the chart below:
    
-   ![Total Fares by Week](analysis/PyBer_fare_summary.png")
+   ![txt](analysis/PyBer_fare_summary.png")
+   analysis/PyBer_fare_summary.png
 
 ## Challenges
   -The most challenging part of this project was the actual problem solving in the coding. I really spent a lot of time going back through 
